@@ -1,0 +1,7 @@
+{
+"pg_connection": {"user" :  "uuu","dbname": "horordateurs", "host":"localhost","password":"xxx"},
+"data_format": {"data_table":"data_binned","geom_table":"carreaux","time_column":"time","geom_column":"geom","row_column":"row","col_column":"col","temporal_variables":
+[{"name":"residents","aggregation":"SUM"},{"name":"rotatif","aggregation":"SUM"}]},
+"scale_operations":[[16,1],[15,1],[14,2],[13,2],[12,2],[11,2]],
+"output":{"directory":"./exemple/tiles/","layername":"horodateurs","format":"json","storage":"files","verbose":false,"nbquantiles":25}
+}
