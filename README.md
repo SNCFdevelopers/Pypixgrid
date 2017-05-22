@@ -2,7 +2,7 @@
 
 
 
-<IMG ALIGN="right" SRC="https://github.com/anaisremy/170425_test/blob/master/DOCS/170130_visu_valoiti_white.jpg" WIDTH=400 ALT="visu_valoiti" TITLE="visu_valoiti">
+<IMG ALIGN="right" SRC="https://github.com/SNCFdevelopers/Pypixgrid/blob/master/docs/170130_visu_valoiti_white.jpg" WIDTH=400 ALT="visu_valoiti" TITLE="visu_valoiti">
 
 *Pypixgrid* permet de générer des tuiles vectorielles pour l'exploration de jeux de données spatio-temporels massifs. 
 
