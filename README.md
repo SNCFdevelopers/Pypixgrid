@@ -13,7 +13,7 @@ Pour permettre une exploration efficace du jeu de données, le carroyage initial
 L'information temporelle est stockée de manière brute au sein des tuiles produites. 
 Deux formats de tuiles vectorielles sont disponibles, ce qui permet d'interfacer les tuiles avec différentes libariries de cartographie web tel que leaflet ou mapboxGL-js. 
 
-Le code *Pypixgrid* a été développé dans le cadre d'un [projet de visualisation de données](lien à venir) (cf image à droite) mené par [SNCF Innovation & Recherche](http://www.sncf.com/fr/innovation-recherche) en collaboration avec l'[IFSTTAR](http://www.ifsttar.fr/accueil/) et [Makina Corpus](https://makina-corpus.com/).
+Le code *Pypixgrid* a été développé dans le cadre d'un [projet de visualisation de données](https://youtu.be/v44K4ho-YYo) (cf image à droite) mené par [SNCF Innovation & Recherche](http://www.sncf.com/fr/innovation-recherche) en collaboration avec l'[IFSTTAR](http://www.ifsttar.fr/accueil/) et [Makina Corpus](https://makina-corpus.com/).
 
 Ce code est mis à disposition sous licence [Cecill-C](http://www.cecill.info/licences/Licence_CeCILL-C_V1-fr.html).
 
