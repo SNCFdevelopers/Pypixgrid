@@ -142,7 +142,7 @@ python pypixgrid.py config.json
 
 ## Exemple
 
-Pour tester la mise en oeuvre du code
+Pour tester la mise en œuvre du code (NB : nécessite la librairie GDAL/OGR) :
 
 ```shell
 cd ./exemple/data/
